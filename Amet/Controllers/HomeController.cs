@@ -15,7 +15,7 @@ namespace Amet.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "OI rsrsrsrs.";
 
             return View();
         }
