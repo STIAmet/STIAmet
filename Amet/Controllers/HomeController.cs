@@ -22,7 +22,7 @@ namespace Amet.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Olha que daora yas.";
 
             return View();
         }
