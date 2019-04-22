@@ -13,16 +13,23 @@ namespace Amet.Controllers
             return View();
         }
 
-        public ActionResult About()
+        public ActionResult Analysis()
         {
             ViewBag.Message = "OI rsrsrsrs.";
 
             return View();
         }
 
-        public ActionResult Contact()
+        public ActionResult History()
         {
             ViewBag.Message = "Olha que daora yas.";
+
+            return View();
+        }
+
+        public ActionResult Pollution()
+        {
+            ViewBag.Message = "Alterado por Yasmin, vê se foi aí aushahsuahsua";
 
             return View();
         }
